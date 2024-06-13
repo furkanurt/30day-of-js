@@ -1,0 +1,27 @@
+ .Navbar {
+
+    background-color: aqua;
+    width: 700px;
+    height: 25px;
+    position:fixed;
+    margin: auto;
+
+}
+
+body {
+    background-color: aquamarine;
+    opacity: 0.9;
+    background-image: url(img/painting-mountain-lake-with-mountain-background.jpg);
+
+}
+.button {
+    color: blue;
+    width: 67px;
+    height: 67px;
+
+}
+
+.Highlight {
+ width: 89px;
+ height: 788px;
+}
